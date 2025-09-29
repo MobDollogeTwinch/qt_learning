@@ -2,16 +2,16 @@
 #### os
 Arch Linux x86_64  
 #### clang
-> clang --version
+> clang --version  
 clang version 20.1.8  
 Target: x86_64-pc-linux-gnu  
 Thread model: posix  
 InstalledDir: /usr/bin  
 #### cmake
-> cmake --version
+> cmake --version  
 cmake version 4.1.1  
 #### qt
-> qmake6 --version
+> qmake6 --version  
 QMake version 3.1  
 Using Qt version 6.9.2 in /usr/lib  
 ### 构建命令
