@@ -18,5 +18,9 @@ cmake version 4.1.1
 QMake version 3.1  
 Using Qt version 6.9.2 in /usr/lib
 ### 构建命令
+以下构建命令均依照上述环境得来
+
 cd 到对应子文件执行  
 > cmake -B build -S . -DCMAKE_CXX_COMPILER=clang++ -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+
+最后再make一下得到可执行文件
